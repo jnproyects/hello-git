@@ -1,3 +1,3 @@
 test1() {
-  print('Hello Git 2 editado v2 login');
+  print('Hello Git 2 edición misma linea desde login');
 }
